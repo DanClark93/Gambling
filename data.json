@@ -1,0 +1,58 @@
+[
+ {
+   "Year": 2013,
+   "Scotland": 65.2,
+   "England": 68.2,
+   "Wales": 69.1,
+   "Category": "Overall Gambling Participation"
+ },
+ {
+   "Year": 2014,
+   "Scotland": 66.8,
+   "England": 69.5,
+   "Wales": 70.5,
+   "Category": "Overall Gambling Participation"
+ },
+ {
+   "Year": 2015,
+   "Scotland": 64.2,
+   "England": 67.5,
+   "Wales": 71.6,
+   "Category": "Overall Gambling Participation"
+ },
+ {
+   "Year": 2016,
+   "Scotland": 63.1,
+   "England": 67.4,
+   "Wales": 69.5,
+   "Category": "Overall Gambling Participation"
+ },
+ {
+   "Year": 2013,
+   "Scotland": 30.3,
+   "England": 28.7,
+   "Wales": 30.4,
+   "Category": "Online Betting"
+ },
+ {
+   "Year": 2014,
+   "Scotland": 34.3,
+   "England": 29.9,
+   "Wales": 30.4,
+   "Category": "Online Betting"
+ },
+ {
+   "Year": 2015,
+   "Scotland": 32.1,
+   "England": 31.5,
+   "Wales": 30.4,
+   "Category": "Online Betting"
+ },
+ {
+   "Year": 2016,
+   "Scotland": 31.9,
+   "England": 36.5,
+   "Wales": 30.4,
+   "Category": "Online Betting"
+ }
+]
